@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MediSync Diabo</string>
+    <string name="welcome_headline">Your Complete Health Companion</string>
+    <string name="onboarding_badge">ALL-IN-ONE DASHBOARD</string>
+    <string name="continue_text">Continue</string>
+</resources>

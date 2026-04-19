@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8C66F2</color> <!-- vibrantPurple approx: 0.55, 0.40, 0.95 -->
+    <color name="colorPrimaryDark">#5933BF</color> <!-- deepPurple approx: 0.35, 0.20, 0.75 -->
+    <color name="colorAccent">#F2BF4D</color> <!-- accentGold approx: 0.95, 0.75, 0.30 -->
+
+    <color name="appPurple">#CCB2FF</color> <!-- 0.8, 0.7, 1.0 -->
+    <color name="appPink">#FFE6E6</color> <!-- 1.0, 0.85, 0.9 -->
+    <color name="appYellow">#FABC73</color> <!-- 0.98, 0.75, 0.45 -->
+    <color name="appOrange">#FFB266</color> <!-- 1.0, 0.7, 0.4 -->
+    <color name="appBlue">#CCE6FF</color> <!-- 0.8, 0.9, 1.0 -->
+    <color name="appGreen">#B2E6B2</color> <!-- 0.7, 0.9, 0.7 -->
+    <color name="appLightBlue">#B2CCFF</color> <!-- 0.7, 0.8, 1.0 -->
+    <color name="appGray">#80808080</color> <!-- gray 0.5 -->
+    <color name="appRed">#FF9999</color> <!-- 1.0, 0.6, 0.6 -->
+    <color name="tabBarBlack">#CC000000</color> <!-- black 0.8 -->
+    
+    <color name="uploadBlue">#66B2F2</color> <!-- 0.4, 0.7, 0.95 -->
+    <color name="uploadPurple">#9980F2</color> <!-- 0.6, 0.5, 0.95 -->
+    
+    <color name="medicalPurpleDeep">#402673</color> <!-- 0.25, 0.15, 0.45 -->
+    <color name="medicalPurpleLight">#F0EBFA</color> <!-- 0.94, 0.92, 0.98 -->
+    <color name="medicalPurpleMedium">#D1BFF0</color> <!-- 0.82, 0.75, 0.94 -->
+    <color name="vibrantPurple">#A68CF2</color> <!-- 0.65, 0.55, 0.95 -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+</resources>
